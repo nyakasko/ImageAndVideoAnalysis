@@ -1,6 +1,6 @@
 # ImageAndVideoAnalysis
- 
-1.  Prewitt edge detector: gradient filter and nonmaxima-suppression (NMS)
+
+1. Prewitt edge detector: gradient filter and nonmaxima-suppression (NMS)
 
 Output is two images: 1. gradient magnitute; 2. final result after NMS.
 
